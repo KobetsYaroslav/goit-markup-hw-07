@@ -1157,6 +1157,7 @@ img {
   width: 100vw;
   height: 100vh;
   padding-top: 80px;
+  padding-bottom: 40px;
   padding-left: 24px;
   background-color: var(--color-white);
   z-index: 2;
