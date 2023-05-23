@@ -829,8 +829,17 @@ img {
 
 /* =============Portfolio=========== */
 .projects {
-  padding-top: 96px;
-  padding-bottom: 120x;
+  padding-top: 48px;
+}
+@media only screen and (min-width: 768px) {
+  .projects {
+    padding-top: 64px;
+  }
+}
+@media only screen and (min-width: 1158px) {
+  .projects {
+    padding-top: 100px;
+  }
 }
 
 /* ======= */
